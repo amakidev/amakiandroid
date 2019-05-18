@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="update_image_options">
+        <item>@string/update_media_camera</item>
+        <item>@string/update_media_image_album</item>
+        <item>@string/update_media_remove</item>
+    </string-array>
+
+    <string-array name="upload_image_options">
+        <item>@string/update_media_camera</item>
+        <item>@string/update_media_image_album</item>
+    </string-array>
+
+    <string-array name="upload_media_options">
+        <item>@string/update_media_camera</item>
+        <item>@string/update_media_image_album</item>
+        <item>@string/update_media_video_album</item>
+    </string-array>
+
+    <string-array name="upload_video_options">
+        <item>@string/update_media_video_album</item>
+    </string-array>
+</resources>

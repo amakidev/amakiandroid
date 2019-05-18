@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/container"
+    android:background="@color/color_black"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <br.com.victorcatao.amaki.ui.widget.TouchImageView
+        android:id="@+id/pictureDetailIv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitCenter" />
+
+    <ImageView
+        android:id="@+id/pictureDetailBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/horizontal_margin_small"
+        android:layout_marginTop="@dimen/vertical_margin_small"
+        android:padding="@dimen/horizontal_margin_small"
+        app:srcCompat="@drawable/ic_back_bg" />
+
+</RelativeLayout>

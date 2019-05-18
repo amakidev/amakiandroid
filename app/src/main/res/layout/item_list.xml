@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?selectableItemBackground"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:paddingBottom="@dimen/vertical_margin_small"
+    android:paddingEnd="@dimen/horizontal_margin"
+    android:paddingStart="@dimen/horizontal_margin"
+    android:paddingTop="@dimen/vertical_margin_small"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/itemListContenTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Lorem ipsum dolor sit amet"/>
+
+</LinearLayout>

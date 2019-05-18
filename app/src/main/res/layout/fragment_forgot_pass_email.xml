@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="@dimen/vertical_margin"
+        android:textAllCaps="true" />
+
+    <br.com.victorcatao.amaki.ui.widget.AppTextInputLayout
+        android:id="@+id/forgotPassEmailEt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/vertical_margin"
+        android:background="@drawable/bg_stroke_rounded_white"
+        android:hint="@string/forgot_password_confirm_email"
+        android:padding="8dp"
+        android:textColorHint="@color/color_gray_light"
+        app:emptinessIsValid="false"
+        app:inputTextType="mail">
+
+        <android.support.design.widget.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/color_transparent"
+            android:inputType="textEmailAddress"
+            android:paddingTop="4dp"
+            android:textColor="@color/color_white" />
+
+    </br.com.victorcatao.amaki.ui.widget.AppTextInputLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <br.com.victorcatao.amaki.ui.widget.ProgressButton
+        android:id="@+id/forgotPassEmailBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/vertical_margin_detail"
+        android:paddingBottom="@dimen/vertical_margin_detail"
+        app:btnBackground="@color/colorAccent"
+        app:btnText="@string/forgot_password_send" />
+</LinearLayout>

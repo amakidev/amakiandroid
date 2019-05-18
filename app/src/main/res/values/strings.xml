@@ -1,0 +1,104 @@
+<resources>
+    <string name="google_maps_key"></string>
+    <string name="facebook_app_id"></string>
+
+    <string name="google_maps_api_key">AIzaSyCwpkZp-g77oGVCkPBVKgLbWzK2RdOqVf0</string>
+
+    <!--DIALOG MESSAGES-->
+    <string name="progress_dialog_standard_msg">Aguarde um momento.</string>
+
+    <!--NETWORK ERRORS-->
+    <string name="network_error_timeout">Erro inesperado, por favor tente novamente.</string>
+    <string name="network_error_without_connection">Rede indisponível.</string>
+    <string name="network_error_unknown">Erro desconhecido, não foi possível completar sua requisição.</string>
+
+    <!--PLACEHOLDERS LABELS-->
+    <string name="placeholder_empty_label">Não existem resultados.</string>
+    <string name="placeholder_empty_title">Erro!</string>
+    <string name="placeholder_error_label">Houve um erro inesperado.</string>
+    <string name="placeholder_error_button_label">Tentar novamente</string>
+
+    <!--AppTextInputLayout DEFAULT FEEDBACKS-->
+    <string name="apptextinputlayout_invalid_field">Campo %s inválido.</string>
+    <string name="apptextinputlayout_empty_field">Campo %s não pode estar vazio.</string>
+    <string name="apptextinputlaoyut_password_field">A %1$s não pode conter menos de %2$d caracteres.</string>
+
+    <!--SNACKBAR-->
+    <string name="snack_error_try_again_msg">Tente Novamente</string>
+    <string name="snack_error_msg">Houve um erro</string>
+
+    <!--SIMPLE LIST-->
+    <string name="simple_list_title">Lista Simples</string>
+    <string name="loading_title">Activity com Loading</string>
+
+    <!--UPDATE MEDIA-->
+    <string name="update_media_camera">Usar câmera</string>
+    <string name="update_media_remove">Remover imagem</string>
+    <string name="update_media_image_album">Escolher imagem do álbum</string>
+    <string name="update_media_video_album">Escolher video do álbum</string>
+    <string name="dialog_title_select_an_option">Selecione uma opção</string>
+
+    <!--FONT FAMILY-->
+    <string name="font_family_regular">sans-serif</string>
+    <string name="font_family_light">sans-serif-light</string>
+    <string name="font_family_condensed">sans-serif-condensed</string>
+    <string name="font_family_black">sans-serif-black</string>
+    <string name="font_family_thin">sans-serif-thin</string>
+    <string name="font_family_medium">sans-serif-medium</string>
+
+    <!--LOGIN ACTIVITY-->
+    <string name="login_forgot_pass">Esqueceu a Senha?</string>
+    <string name="login_create_account">Não tem uma conta?\nCriar nova conta</string>
+    <string name="login_email_hint">E-mail</string>
+    <string name="login_password_hint">Senha</string>
+    <string name="login_signin">Entrar</string>
+    <string name="login_error_email">E-mail Inválido</string>
+    <string name="login_error_password">A senha deve possuir pelo menos %d caracteres.</string>
+    <string name="unknown_error">Erro Desconhecido</string>
+    <string name="forgot_password_confirm_email">Confirmar E-mail</string>
+    <string name="forgot_password_send">Enviar</string>
+
+    <!--GALLERY-->
+    <string name="gallery_add">Adicionar</string>
+    <string name="gallery_title">Galeria</string>
+    <string name="gallery_placeholder">VISITANTE, AQUI VOCÊ PODE TIRAR FOTOS E VÍDEOS DAS NOVIDADES DA LUBGRAX PARA SE LEMBRAR MAIS TARDE.</string>
+    <string name="pictures_remove_confirmation">Deseja deletar esta foto?</string>
+
+    <string name="lorem">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker. Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</string>
+
+
+    <!--HOME-->
+    <string name="home_title">Home</string>
+
+    <!--SEARCH-->
+    <string name="search_title">Selecione</string>
+
+    <!--ESTABLISHMENT-->
+    <string name="establishment_title">Estabelecimento</string>
+
+    <!--MAP-->
+    <string name="map_title">Mapa</string>
+
+    <!--ABOUT-->
+    <string name="about_title">Sobre o Amaki</string>
+    <string name="about_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut ex risus. Donec feugiat neque non erat egestas faucibus. In maximus est sit amet vulputate fringilla. Maecenas tristique leo nec aliquet rutrum. Vivamus commodo at enim eget aliquam. Donec pulvinar sapien nunc. Ut eget sollicitudin augue. Pellentesque malesuada nisi lobortis tellus porttitor ultrices. Proin vel hendrerit ipsum. In lobortis augue quam, vitae luctus justo tempor eu. Morbi aliquet, enim eget dignissim auctor, nulla quam egestas quam, id facilisis leo lectus sit amet nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam felis ante, eleifend id hendrerit ullamcorper, ultricies quis felis. Suspendisse eget purus vel nisi malesuada dapibus quis in nisi. Vestibulum sit amet convallis mauris. Vestibulum vitae nisi lobortis, ullamcorper metus sit amet, egestas felis. Aliquam erat volutpat. Mauris sagittis quis elit in posuere. Sed suscipit ligula nec lacus mattis, sit amet lacinia tortor ullamcorper. Cras commodo convallis mauris eu feugiat. Morbi ullamcorper vestibulum nisi, ac commodo justo consequat nec. Integer finibus sagittis ligula ut tincidunt. Cras congue nibh vitae mi ultrices tempus. Vestibulum eros tellus, luctus eget gravida vitae, commodo ut enim. Morbi non turpis orci. Pellentesque vehicula suscipit risus vel malesuada. Vestibulum pellentesque nulla quis viverra hendrerit. Pellentesque iaculis molestie leo in iaculis. Integer sed velit sit amet sapien pellentesque pulvinar vehicula vel ex. Vivamus pulvinar in lectus sed auctor. Morbi viverra, tellus ac fringilla vehicula, dui ante laoreet mi, nec sollicitudin purus sem vitae quam. Donec consequat in nisi ut lobortis. Pellentesque sagittis sem in faucibus fermentum. Vivamus dapibus, enim ac facilisis hendrerit, nisl leo feugiat velit, quis pharetra felis diam sit amet ipsum. Vestibulum imperdiet lorem nec mi ullamcorper, eu malesuada erat tempor. Phasellus quis lacinia lectus. Morbi non turpis metus. Vivamus sagittis pharetra turpis, a convallis purus. Phasellus rutrum consequat ante. Praesent mauris magna, mollis vel molestie eget, mollis ut risus. Vestibulum eu velit erat. Sed pretium accumsan elit, vitae viverra dolor mattis feugiat. Nulla laoreet massa et sagittis facilisis. Nullam sed felis sollicitudin, convallis nibh tempus, interdum odio. Suspendisse ex quam, finibus a tincidunt ut, sagittis quis leo. Praesent orci nulla, efficitur at mi vitae, porta viverra sem. Nunc congue pulvinar leo, quis ullamcorper quam venenatis et. Pellentesque dapibus est et vulputate porta. Suspendisse consectetur placerat eleifend. Aenean aliquam iaculis lectus non iaculis. Aliquam eu blandit lorem, sed facilisis nunc. Donec tristique est at imperdiet scelerisque. Quisque rhoncus varius sapien, lacinia fermentum nisi commodo et. Etiam velit nunc, lobortis vel tempus quis, pretium nec tortor. Suspendisse potenti.</string>
+
+    <!--Customer Partner-->
+    <string name="customer_partner_title">Quero Ser Parceiro</string>
+
+    <!--New Category-->
+    <string name="new_category_title">Cadastrar Categoria</string>
+
+    <!--HOME ADM-->
+    <string name="home_adm_title">AMAKI ADM</string>
+
+    <!--ALL ESTABLISHMENTS-->
+    <string name="all_establishments_title">Estabelecimentos</string>
+
+    <!--NEW ESTABLISHMENT-->
+    <string name="new_establishment_title">Novo Estabelecimento</string>
+
+    <!--CONTACTS LIST-->
+    <string name="contacts_list_title">Contatos</string>
+
+</resources>
